@@ -25,3 +25,17 @@ Before you export your table, confirm that it looks like this image:
 
 
 ![image](https://user-images.githubusercontent.com/112348240/202349440-40e55bbd-f848-4fc7-93fc-1f784d870d18.png)
+
+
+Deliverable 1 Requirements
+You will earn a perfect score for Deliverable 1 by completing all requirements below:
+
+   1. A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. 
+The Retirement Titles table is exported as retirement_titles.csv. 
+-- 2. A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title. 
+- 3. The Unique Titles table is exported as unique_titles.csv. (5 pt)
+- 4. A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. (10 pt)
+The Retiring Titles table is exported as retiring_titles.csv. (5 pt)
+Deliverable 2: The Employees Eligible for the Mentorship Program (30 points)
+Deliverable 2 Instructions
+Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
