@@ -52,7 +52,9 @@ Deliverable 1 Requirements
 - A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
   
  - The Retiring Titles table is exported as `retiring_titles.csv`. 
-  
+ 
+*Image 3.Retiring Titles*
+
 ![image](https://user-images.githubusercontent.com/112348240/202349440-40e55bbd-f848-4fc7-93fc-1f784d870d18.png)
 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program 
@@ -72,6 +74,8 @@ Deliverable 1 Requirements
 - Export the Mentorship Eligibility table as `mentorship_eligibilty.csv` and save it to your Data folder in the Pewlett-Hackard-Analysis folder.
 - The image below looks like the one require for this challenge:
 
+*Image 4. Mentorship Eligibilty*
+
 ![image](https://user-images.githubusercontent.com/112348240/202872590-69877115-a552-4076-83aa-06a3d0eccbf6.png)
 
 ## Deliverable 3: A written report on the employee database analysis 
@@ -81,27 +85,34 @@ Deliverable 1 Requirements
   The analysis should contain the following:
 
 1. *Overview of the analysis:* Explain the purpose of this analysis.
+
+    We are helping Bobby which has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The main idea is write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+    
 2. *Results*: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+    - After analyzing the data we fund that a big portion of the employees will be retiring anytime soon.
+ 
+    - Below is the breakdown:
+      
+      - Total of 25916 "Senior Engineer",
+      
+      - Total of 24926 "Senior Staff",
+      
+      - Total of 9285 "Engineer",
+      
+      - Total of 7636 "Staff",
+      
+      - Total of 3603 "Technique Leader",
+      
+      - Total of 1090 "Assistant Engineer",
+      
+      - Total of 2 "Manager"
+
 3. *Summary:* Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
     - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     
-      We will have a total of 72458 employees eligles to retire at any given time when upcoming "silver tsunami" begin. Below is the breakdown:
-      
-      --- Total of 25916 "Senior Engineer",
-      
-      --- Total of 24926 "Senior Staff",
-      
-      --- Total of 9285 "Engineer",
-      
-      --- Total of 7636 "Staff",
-      
-      --- Total of 3603 "Technique Leader",
-      
-      --- Total of 1090 "Assistant Engineer",
-      
-      --- Total of 2 "Manager"
-
+      We will have a total of 72458 employees eligles to retire at any given time when upcoming "silver tsunami" begin. 
   
     - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     
