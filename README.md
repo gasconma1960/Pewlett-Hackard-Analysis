@@ -112,7 +112,7 @@ Deliverable 1 Requirements
 
     - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     
-      We will have a total of 72458 employees eligles to retire at any given time when upcoming "silver tsunami" begin. 
+      We will have a total of 72458 employees elegible to retire at any given time when upcoming "silver tsunami" begin. 
   
     - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     
